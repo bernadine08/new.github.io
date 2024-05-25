@@ -89,6 +89,13 @@ p2{
       font-family: 'Trebuchet MS';
       text-align: left;
 }
+}      
+t2{
+      color: black;
+      font-size: 25px;
+      font-family: 'Trebuchet MS';
+      text-align: left;
+}
 
   .footer{
     position:fixed;
@@ -126,6 +133,20 @@ p2{
   color: black;
 }  
 #Skills ul {
+  font-size: 20px;
+  font-family: 'Trebuchet MS';
+  text-align: left;
+  color: black;
+}  
+}  
+#testi ul {
+  font-size: 20px;
+  font-family: 'Trebuchet MS';
+  text-align: left;
+  color: black;
+}  
+}  
+#testi1 ul {
   font-size: 20px;
   font-family: 'Trebuchet MS';
   text-align: left;
